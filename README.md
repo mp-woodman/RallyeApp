@@ -1,4 +1,4 @@
-# Rally
+# RallyeApp
 Hilfsmittel zum Training für Oldtimer gleichmäßigkeits Rallyes.
 Bestehend aus zwei Komponenten, der Lichtschranken/Schlauch-Einheit mit DCF77 Funkzeitempfänger(lightbarier_esp) und dem Auswertegerät mit paperwhite display und akustischem Signalgeber im Oldtimer Cockpit(CAR_BLE_Client).
 Dier Bieden Geräte sind über Bluetooth (BLE) verbunden, Wenn man mit dem Oldtimer dich Lichtschanke auslöst, ertönt ein Akustisches Signal im Auswertegerät und kurz danach wird einem die Funkzeit der Druchfahrt angezeigt. 
