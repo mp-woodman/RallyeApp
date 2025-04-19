@@ -1,8 +1,10 @@
-#include <DCF77.h>       //https://github.com/thijse/Arduino-Libraries/downloads
+#include <DCF77.h>       //https://github.com/thijse/Arduino-DCF77
 #include <BLEDevice.h>
 #include <BLEServer.h>
 #include <BLEUtils.h>
 #include <BLE2902.h>
+
+// compile info Target ESP32 Devkitc ==> select DOIT ESP32 DEVKIT V1
 
 //Defines
 #define myLog(content) Serial.print(content)
