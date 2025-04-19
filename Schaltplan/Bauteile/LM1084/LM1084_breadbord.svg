@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (https://fritzing.org/) -->
+
+<svg
+   height="0.80000001in"
+   version="1.2"
+   viewBox="0 0 26.64004 57.59985"
+   width="0.37in"
+   x="0in"
+   y="0in"
+   id="svg19"
+   sodipodi:docname="LM1084_breadbord.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs19">
+    <rect
+       x="5.8049827"
+       y="32.618477"
+       width="25.707781"
+       height="5.666769"
+       id="rect19" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview19"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     inkscape:zoom="7.2351635"
+     inkscape:cx="17.760483"
+     inkscape:cy="50.7936"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="breadboard" />
+  <g
+     partID="855150260"
+     id="g13">
+    <g
+       id="breadboard">
+      <rect
+         fill="none"
+         height="0.72000003"
+         id="connector0pin"
+         width="2.1600001"
+         x="5.4007201"
+         y="43.200001" />
+      <rect
+         fill="none"
+         height="0.72000003"
+         id="connector1pin"
+         width="2.1600001"
+         x="12.5993"
+         y="43.200001" />
+      <rect
+         fill="none"
+         height="0.72000003"
+         id="connector2pin"
+         width="2.1600001"
+         x="19.7978"
+         y="43.200001" />
+      <g
+         fill="none"
+         id="connector0leg"
+         stroke="#8c8c8c"
+         stroke-linecap="round"
+         stroke-width="2.16"
+         x1="9.001"
+         x2="9.001"
+         y1="62.317"
+         y2="72.317" />
+      <g
+         fill="none"
+         id="connector1leg"
+         stroke="#8c8c8c"
+         stroke-linecap="round"
+         stroke-width="2.16"
+         x1="18.999"
+         x2="18.999"
+         y1="62.317"
+         y2="72.317" />
+      <g
+         fill="none"
+         id="connector2leg"
+         stroke="#8c8c8c"
+         stroke-linecap="round"
+         stroke-width="2.16"
+         x1="28.997"
+         x2="28.997"
+         y1="62.317"
+         y2="72.317" />
+      <path
+         d="M 24.4778,0.36 H 13.6793 v 1.80144 c 3.13488,0 5.67,1.77912 5.67,3.97224 -0.0014,2.19168 -2.53656,3.96936 -5.67,3.96936 v 5.82264 h 10.7986 z"
+         fill="#bfbcbc"
+         id="path11" />
+      <path
+         d="M 8.01072,6.13008 C 8.01072,3.93624 10.5473,2.16 13.6793,2.16 V 0.35928 H 2.88072 V 15.9192 h 10.7986 v -5.82192 c -3.13202,0.0014 -5.6686,-1.7748 -5.6686,-3.9672 z"
+         fill="#808080"
+         id="path12" />
+      <rect
+         fill="#8c8c8c"
+         height="11.3666"
+         id="rect4"
+         width="2.1600001"
+         x="5.4007201"
+         y="33.501598" />
+      <rect
+         fill="#8c8c8c"
+         height="11.3666"
+         id="rect6"
+         width="2.1600001"
+         x="12.5993"
+         y="33.501598" />
+      <rect
+         fill="#8c8c8c"
+         height="11.3666"
+         id="rect8"
+         width="2.1600001"
+         x="19.7978"
+         y="33.501598" />
+      <polygon
+         fill="#cccccc"
+         id="polygon10"
+         points="2.88072,0.36 0.36072,3.258 0.36072,12.8628 2.88072,12.8628 " />
+      <polygon
+         fill="#999999"
+         id="polygon12"
+         points="26.9978,12.8628 26.9978,3.258 24.4778,0.36 24.4778,12.8628 " />
+      <polygon
+         fill="#8c8c8c"
+         id="polygon21"
+         points="3.96072,40.806 3.96072,32.0364 9.00072,32.0364 9.00072,40.806 7.38792,41.526 5.57352,41.526 " />
+      <polygon
+         fill="#8c8c8c"
+         id="polygon23"
+         points="11.1593,40.806 11.1593,32.0364 16.1993,32.0364 16.1993,40.806 14.5865,41.526 12.7728,41.526 " />
+      <polygon
+         fill="#8c8c8c"
+         id="polygon25"
+         points="18.3593,40.806 18.3593,32.0364 23.3978,32.0364 23.3978,40.806 21.785,41.526 19.9721,41.526 " />
+      <rect
+         fill="#141414"
+         height="15.9998"
+         width="8.6400003"
+         x="18.359301"
+         y="22.695801"
+         id="rect12" />
+      <rect
+         fill="#333333"
+         height="15.9998"
+         width="8.6400003"
+         x="0.36072001"
+         y="22.695801"
+         id="rect13" />
+      <path
+         d="m 0.36072,28.5545 v 5.16672 c 2.0376,0 3.69,-1.15488 3.69,-2.58336 0,-1.42636 -1.6524,-2.58336 -3.69,-2.58336 z"
+         fill="#262626"
+         id="path40_1_" />
+      <path
+         d="m 26.9978,28.5545 c -2.0376,0 -3.69,1.15488 -3.69,2.58336 0,1.42488 1.6524,2.58336 3.69,2.58336 z"
+         id="path47" />
+      <path
+         d="m 0.36072,22.6958 v 7.11936 c 2.0376,0 3.69,1.15632 3.69,2.58336 0,1.42704 -1.6524,2.58336 -3.69,2.58336 v 3.71376 h 26.6386 L 26.9993,22.6958 Z M 26.9978,34.9812 c -2.0376,0 -3.69,-1.15488 -3.69,-2.58336 0,-1.42488 1.6524,-2.58336 3.69,-2.58336 z"
+         fill="#1a1a1a"
+         id="path13" />
+      <rect
+         height="3.34728"
+         id="rect49"
+         width="26.638599"
+         x="0.36072001"
+         y="19.347799" />
+      <rect
+         fill="#333333"
+         height="4.1385598"
+         id="rect51"
+         width="26.638599"
+         x="0.36072001"
+         y="15.2093" />
+      <rect
+         fill="#b2b2b2"
+         height="3.0599999"
+         id="rect53"
+         width="21.5986"
+         x="2.8807199"
+         y="0.36000001" />
+      <path
+         d="M 24.4778,2.70648 H 2.88072 l -2.52,2.89728 v 9.6048 h 26.6371 l -2e-5,-9.6048 z M 13.6793,12.4459 c -3.132,0 -5.66856,-1.77696 -5.66856,-3.96936 0,-2.19168 2.53656,-3.96792 5.66856,-3.96792 3.13488,0 5.67,1.77696 5.67,3.96792 -0.0015,2.19166 -2.5366,3.96936 -5.67,3.96936 z"
+         fill="#8c8c8c"
+         id="path55" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.75000109,0,0,0.75000109,0,-1.5690955e-4)"
+         id="text19"
+         style="font-size:5.66668px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect19);fill:#666666" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.25002px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#666666;stroke-width:0.750001"
+         x="14.18481"
+         y="27.158911"
+         id="text20"><tspan
+           sodipodi:role="line"
+           id="tspan20"
+           style="text-align:center;text-anchor:middle;stroke-width:0.750001"
+           x="14.18481"
+           y="27.158911">LM1084</tspan><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;stroke-width:0.750001"
+           x="14.18481"
+           y="32.471436"
+           id="tspan21">3,3V</tspan></text>
+    </g>
+  </g>
+  <path
+     d="m 13.6793,44.8682 v 7.2"
+     fill="none"
+     opacity="1"
+     stroke="#8c8c8c"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width="2.16"
+     id="path14" />
+  <path
+     d="m 13.6793,48.0682 v 4"
+     fill="none"
+     opacity="0.3"
+     stroke="#ff0000"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width="2.16"
+     id="path15" />
+  <path
+     d="m 20.8778,44.8682 v 7.2"
+     fill="none"
+     opacity="1"
+     stroke="#8c8c8c"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width="2.16"
+     id="path16" />
+  <path
+     d="m 20.8778,48.0682 v 4"
+     fill="none"
+     opacity="0.3"
+     stroke="#ff0000"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width="2.16"
+     id="path17" />
+  <path
+     d="m 6.48072,44.8682 v 7.2"
+     fill="none"
+     opacity="1"
+     stroke="#8c8c8c"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width="2.16"
+     id="path18" />
+  <path
+     d="m 6.48072,48.0682 v 4"
+     fill="none"
+     opacity="0.3"
+     stroke="#ff0000"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width="2.16"
+     id="path19" />
+</svg>

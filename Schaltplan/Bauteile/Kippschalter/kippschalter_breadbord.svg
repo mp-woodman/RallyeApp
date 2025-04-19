@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (https://fritzing.org/) -->
+
+<svg
+   height="0.894222in"
+   version="1.2"
+   viewBox="0 0 12.906 64.384"
+   width="0.17925in"
+   x="0in"
+   y="0in"
+   id="svg37"
+   sodipodi:docname="kippschalter_breadbord.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs37" />
+  <sodipodi:namedview
+     id="namedview37"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     inkscape:zoom="8.5619117"
+     inkscape:cx="8.5845314"
+     inkscape:cy="42.922657"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg37" />
+  <g
+     partID="855154240"
+     id="g37">
+    <g
+       id="breadboard">
+      <circle
+         cx="6.453"
+         cy="16.772"
+         fill="none"
+         id="connector0pin"
+         r="2.052" />
+      <circle
+         cx="6.453"
+         cy="24.476"
+         fill="none"
+         id="connector1pin"
+         r="2.053" />
+      <circle
+         cx="6.453"
+         cy="32.18"
+         fill="none"
+         id="connector2pin"
+         r="2.052" />
+      <g
+         id="g36">
+        <rect
+           fill="#333333"
+           height="9.17"
+           id="rect27_3_"
+           width="12.944"
+           x="-0.019"
+           y="32.172" />
+        <rect
+           fill="#666666"
+           height="32.604"
+           id="rect51_3_"
+           width="12.906"
+           x="-0.019" />
+        <rect
+           height="19.359"
+           id="rect49_2_"
+           width="6.453"
+           x="3.232"
+           y="6.624" />
+        <rect
+           fill="#1A1A1A"
+           height="3.939"
+           id="rect49_3_"
+           width="6.453"
+           x="3.232"
+           y="6.623" />
+        <rect
+           fill="#333333"
+           height="15.42"
+           id="rect49_1_"
+           width="2.578"
+           x="5.169"
+           y="10.563" />
+        <rect
+           enable-background="new    "
+           fill="#FFFFFF"
+           height="32.603"
+           opacity="0.2"
+           width="0.359"
+           x="-0.019"
+           y="0.002"
+           id="rect11" />
+        <rect
+           enable-background="new    "
+           fill="#FFFFFF"
+           height="19.359"
+           opacity="0.2"
+           width="0.145"
+           x="3.088"
+           y="6.624"
+           id="rect12" />
+        <rect
+           enable-background="new    "
+           fill="#FFFFFF"
+           height="15.42"
+           opacity="0.2"
+           width="0.145"
+           x="5.169"
+           y="10.563"
+           id="rect13" />
+        <rect
+           enable-background="new    "
+           fill="#FFFFFF"
+           height="0.145"
+           opacity="0.2"
+           width="6.618"
+           x="3.066"
+           y="6.479"
+           id="rect14" />
+        <rect
+           enable-background="new    "
+           height="32.602"
+           opacity="0.1"
+           width="0.359"
+           x="12.566"
+           y="0.003"
+           id="rect15" />
+        <g
+           id="g35">
+          <rect
+             fill="#666666"
+             height="5.679"
+             id="rect27_2_"
+             width="5.628"
+             x="3.681"
+             y="17.358" />
+          <rect
+             fill="#4D4D4D"
+             height="2.946"
+             id="rect27_1_"
+             width="5.628"
+             x="3.681"
+             y="23.037" />
+          <g
+             id="rect51_2_">
+            <g
+               id="g16">
+              <rect
+                 fill="#1A1A1A"
+                 height="0.195"
+                 width="5.629"
+                 x="3.68"
+                 y="22.506"
+                 id="rect16" />
+            </g>
+            <g
+               id="g17">
+              <rect
+                 fill="#1A1A1A"
+                 height="0.196"
+                 width="5.629"
+                 x="3.68"
+                 y="22.217"
+                 id="rect17" />
+            </g>
+            <g
+               id="g18">
+              <rect
+                 fill="#1A1A1A"
+                 height="0.193"
+                 width="5.629"
+                 x="3.68"
+                 y="21.931"
+                 id="rect18" />
+            </g>
+            <g
+               id="g19">
+              <rect
+                 fill="#1A1A1A"
+                 height="0.194"
+                 width="5.629"
+                 x="3.68"
+                 y="21.642"
+                 id="rect19" />
+            </g>
+            <g
+               id="g20">
+              <rect
+                 fill="#1A1A1A"
+                 height="0.193"
+                 width="5.629"
+                 x="3.68"
+                 y="21.354"
+                 id="rect20" />
+            </g>
+            <g
+               id="g21">
+              <rect
+                 fill="#1A1A1A"
+                 height="0.196"
+                 width="5.629"
+                 x="3.68"
+                 y="21.063"
+                 id="rect21" />
+            </g>
+            <g
+               id="g22">
+              <rect
+                 fill="#1A1A1A"
+                 height="0.195"
+                 width="5.629"
+                 x="3.68"
+                 y="20.776"
+                 id="rect22" />
+            </g>
+            <g
+               id="g23">
+              <rect
+                 fill="#1A1A1A"
+                 height="0.196"
+                 width="5.629"
+                 x="3.68"
+                 y="20.487"
+                 id="rect23" />
+            </g>
+            <g
+               id="g24">
+              <rect
+                 fill="#1A1A1A"
+                 height="0.194"
+                 width="5.629"
+                 x="3.68"
+                 y="20.201"
+                 id="rect24" />
+            </g>
+            <g
+               id="g25">
+              <rect
+                 fill="#1A1A1A"
+                 height="0.195"
+                 width="5.629"
+                 x="3.68"
+                 y="19.912"
+                 id="rect25" />
+            </g>
+            <g
+               id="g26">
+              <rect
+                 fill="#1A1A1A"
+                 height="0.194"
+                 width="5.629"
+                 x="3.68"
+                 y="19.625"
+                 id="rect26" />
+            </g>
+            <g
+               id="g27">
+              <rect
+                 fill="#1A1A1A"
+                 height="0.195"
+                 width="5.629"
+                 x="3.68"
+                 y="19.336"
+                 id="rect27" />
+            </g>
+            <g
+               id="g28">
+              <rect
+                 fill="#1A1A1A"
+                 height="0.195"
+                 width="5.629"
+                 x="3.68"
+                 y="19.049"
+                 id="rect28" />
+            </g>
+            <g
+               id="g29">
+              <rect
+                 fill="#1A1A1A"
+                 height="0.195"
+                 width="5.629"
+                 x="3.68"
+                 y="18.76"
+                 id="rect29" />
+            </g>
+            <g
+               id="g30">
+              <rect
+                 fill="#1A1A1A"
+                 height="0.194"
+                 width="5.629"
+                 x="3.68"
+                 y="18.473"
+                 id="rect30" />
+            </g>
+            <g
+               id="g31">
+              <rect
+                 fill="#1A1A1A"
+                 height="0.195"
+                 width="5.629"
+                 x="3.68"
+                 y="18.184"
+                 id="rect31" />
+            </g>
+            <g
+               id="g32">
+              <rect
+                 fill="#1A1A1A"
+                 height="0.194"
+                 width="5.629"
+                 x="3.68"
+                 y="17.896"
+                 id="rect32" />
+            </g>
+            <g
+               id="g33">
+              <rect
+                 fill="#1A1A1A"
+                 height="0.196"
+                 width="5.629"
+                 x="3.68"
+                 y="17.606"
+                 id="rect33" />
+            </g>
+          </g>
+          <rect
+             enable-background="new    "
+             fill="#FFFFFF"
+             height="5.678"
+             opacity="0.1"
+             width="0.18"
+             x="3.68"
+             y="17.359"
+             id="rect34" />
+          <rect
+             enable-background="new    "
+             fill="#FFFFFF"
+             height="0.181"
+             opacity="0.1"
+             width="5.45"
+             x="3.86"
+             y="17.359"
+             id="rect35" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

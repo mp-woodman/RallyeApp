@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (https://fritzing.org/) -->
+
+<svg
+   height="0.920028in"
+   version="1.2"
+   viewBox="0 0 100.8 66.242"
+   width="1.4in"
+   x="0in"
+   y="0in"
+   id="svg23"
+   sodipodi:docname="LM1084_Schaltplan.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs23" />
+  <sodipodi:namedview
+     id="namedview23"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     inkscape:zoom="8.3217579"
+     inkscape:cx="67.233391"
+     inkscape:cy="44.161343"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="schematic" />
+  <g
+     partID="855150210"
+     id="g23">
+    <g
+       id="schematic">
+      <rect
+         class="interior rect"
+         fill="#FFFFFF"
+         height="27.9"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="0.9"
+         width="71.1"
+         x="14.85"
+         y="0.45"
+         id="rect11" />
+      <line
+         class="pin"
+         fill="none"
+         id="connector2pin"
+         stroke="#787878"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         x1="86.0499"
+         x2="100.45"
+         y1="7.2"
+         y2="7.2" />
+      <text
+         class="text"
+         fill="#8c8c8c"
+         font-family="'Droid Sans'"
+         font-size="2.5"
+         stroke="none"
+         stroke-width="0"
+         text-anchor="middle"
+         x="93.2499"
+         y="6.14999"
+         id="text11">3</text>
+      <text
+         class="text"
+         fill="#8c8c8c"
+         font-family="'Droid Sans'"
+         font-size="3.49999"
+         stroke="none"
+         stroke-width="0"
+         text-anchor="end"
+         x="84.6499"
+         y="7.89999"
+         id="text12">output voltage</text>
+      <g
+         class="terminal"
+         fill="none"
+         height="0.699999"
+         id="connector2terminal"
+         stroke="none"
+         stroke-width="0"
+         width="0.699999"
+         x="100.45"
+         y="6.85001" />
+      <line
+         class="pin"
+         fill="none"
+         id="connector0pin"
+         stroke="#787878"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         x1="0.349999"
+         x2="14.75"
+         y1="7.2"
+         y2="7.2" />
+      <text
+         class="text"
+         fill="#8c8c8c"
+         font-family="'Droid Sans'"
+         font-size="2.5"
+         stroke="none"
+         stroke-width="0"
+         text-anchor="middle"
+         x="7.54999"
+         y="6.14999"
+         id="text13">1</text>
+      <text
+         class="text"
+         fill="#8c8c8c"
+         font-family="'Droid Sans'"
+         font-size="3.49999"
+         stroke="none"
+         stroke-width="0"
+         text-anchor="start"
+         x="16.15"
+         y="7.89999"
+         id="text14">input voltage</text>
+      <g
+         class="terminal"
+         fill="none"
+         height="0.699999"
+         id="connector0terminal"
+         stroke="none"
+         stroke-width="0"
+         width="0.699999"
+         x="-0.349999"
+         y="6.85001" />
+      <line
+         class="pin"
+         fill="none"
+         id="connector1pin"
+         stroke="#787878"
+         stroke-linecap="round"
+         stroke-width="0.699999"
+         x1="50.4"
+         x2="50.4"
+         y1="28.4499"
+         y2="42.8499" />
+      <g
+         transform="matrix(1, 0, 0, 1, 49.35, 35.6499)"
+         id="g18">
+        <g
+           id="g17">
+          <g
+             transform="rotate(270)"
+             id="g16">
+            <g
+               id="g15">
+              <text
+                 class="text"
+                 fill="#8c8c8c"
+                 font-family="'Droid Sans'"
+                 font-size="2.5"
+                 stroke="none"
+                 stroke-width="0"
+                 text-anchor="middle"
+                 x="0"
+                 y="0"
+                 id="text15">2</text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         transform="matrix(1, 0, 0, 1, 51.0999, 27.05)"
+         id="g22">
+        <g
+           id="g21">
+          <g
+             transform="rotate(270)"
+             id="g20">
+            <g
+               id="g19">
+              <text
+                 class="text"
+                 fill="#8c8c8c"
+                 font-family="'Droid Sans'"
+                 font-size="3.49999"
+                 stroke="none"
+                 stroke-width="0"
+                 text-anchor="start"
+                 x="0"
+                 y="0"
+                 id="text18">GND</text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         class="terminal"
+         fill="none"
+         height="0.699999"
+         id="connector1terminal"
+         stroke="none"
+         stroke-width="0"
+         width="0.699999"
+         x="50.0499"
+         y="42.8499" />
+      <text
+         class="text"
+         fill="#000000"
+         font-family="'Droid Sans'"
+         font-size="4.25001"
+         id="label"
+         stroke="none"
+         stroke-width="0"
+         text-anchor="middle"
+         x="50.8499"
+         y="8.0498">Voltage</text>
+      <text
+         class="text"
+         fill="#000000"
+         font-family="'Droid Sans'"
+         font-size="4.25001"
+         id="text22"
+         stroke="none"
+         stroke-width="0"
+         text-anchor="middle"
+         x="50.8499"
+         y="12.5833">Regulator</text>
+      <text
+         class="text"
+         fill="#000000"
+         font-family="'Droid Sans'"
+         font-size="4.25001"
+         id="text23"
+         stroke="none"
+         stroke-width="0"
+         text-anchor="middle"
+         x="50.8499"
+         y="17.1167"
+         style="-inkscape-font-specification:'Droid Sans, Normal';font-family:'Droid Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:4.25001px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0"><tspan
+           sodipodi:role="line"
+           id="tspan23">3,3V</tspan></text>
+    </g>
+  </g>
+</svg>
